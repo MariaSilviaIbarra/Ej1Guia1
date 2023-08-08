@@ -14,6 +14,7 @@ public class Ej1Guia1 {
         System.out.println("nombre del producto "+producto1.getDescripcion());
         System.out.println("precio del producto $"+producto1.getPrecio());
         System.out.println("stock del producto "+producto1.getStock()+" unidades");
+         // Cambios Fabián
         
                 
         
